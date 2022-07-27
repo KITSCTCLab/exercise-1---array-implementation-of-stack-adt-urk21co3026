@@ -20,7 +20,7 @@ class Stack:
     def pop(self):
         if not self.is_empty():
               x = self.items.pop()
-                return x
+              return x
    
 
     def status(self):
